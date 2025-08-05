@@ -41,7 +41,7 @@ class PreferencesScreen extends StatelessWidget {
             PreferencesListTile(
               titleText: "Marketing",
               subtitleTxt:
-                  "Maarketing cookies collec information about your use of this and other apps to enable display ads and other marketing that is more relevant to you.",
+                  "Marketing cookies collec information about your use of this and other apps to enable display ads and other marketing that is more relevant to you.",
               isActive: false,
               press: () {},
             ),
